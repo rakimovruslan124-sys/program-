@@ -3,3 +3,4 @@ second = 7
 third = 10
 average = (first + second + third) / 3
 print(average)
+#нужны были скобки для правильного сложения
